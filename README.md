@@ -13,5 +13,5 @@
 K-means, Factor Analysis, TimeSeries Factor Analysis<br>
 팀 내 본인 주 역할 : 전처리 및 시각화, Factor Analysis
 #### 공모전 사이트 
-공모전 개요 : [https://dacon.io/competitions/official/235618/overview/description/][PlDb]<br>
-제출 코드 : [https://dacon.io/competitions/official/235618/codeshare/1434?page=5&dtype=recent][PlDb]
+공모전 개요 : https://dacon.io/competitions/official/235618/overview/description/<br>
+제출 코드 : https://dacon.io/competitions/official/235618/codeshare/1434?page=5&dtype=recent
